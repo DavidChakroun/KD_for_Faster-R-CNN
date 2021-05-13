@@ -14,6 +14,6 @@ Si vous voulez utiliser ce code pour votre propre dataset, il faut arranger votr
 Dans nos expérimentations, nous utilisons des modèles pré-entrainés sur ImageNet
 
 ### Faites attention
-Les modeles que nous utilisons sont pré-entrainé avec Pytorch, donc les images sont modifiées pour qu'elles soient en RGB et les pixels entre \[0-1].
+Les modeles que nous utilisons sont pré-entrainés avec Pytorch, donc les images sont modifiées pour qu'elles soient en RGB et les pixels entre \[0-1].
 Si vous voulez utiliser des modèles Caffe, il faudra modifier le code
 
